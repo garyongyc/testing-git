@@ -6,10 +6,11 @@
 
 body {
   font-family: "Courier New", Courier, monospace;
-  background: darkslategray;
+  background: red;
 }
 
 h1 {
   text-align: center;
   color: #fff;
+  text-transform: uppercase;
 }
